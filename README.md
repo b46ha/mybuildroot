@@ -1,1 +1,1 @@
-# mybuildroot is cool
+# I am buildroot
